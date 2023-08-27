@@ -1,3 +1,7 @@
+/*
+Just link this in your html's file and add div element with class .visHolder
+*/
+
 const h=460,w=800,padding=50;
 const tooltip=d3.select(".visHolder")
 .append("div")
