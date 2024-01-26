@@ -1,3 +1,6 @@
+/*
+Just linked your HTML's file
+*/
 const tooltip=d3.select("body")
 .append("div")
 .attr("id","tooltip")
